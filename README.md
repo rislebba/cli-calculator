@@ -1,2 +1,2 @@
-# cli-calculator
+# CLI_Calculator
 A simple calculator in python
